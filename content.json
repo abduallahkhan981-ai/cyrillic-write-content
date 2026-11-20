@@ -1,0 +1,302 @@
+{
+  "version": 3,
+  "letters": [
+    {
+      "n": 1,
+      "cap": "А",
+      "low": "а",
+      "single": false,
+      "trad": "ᠠ",
+      "group": 0
+    },
+    {
+      "n": 2,
+      "cap": "Э",
+      "low": "э",
+      "single": false,
+      "trad": "ᠡ",
+      "group": 0
+    },
+    {
+      "n": 3,
+      "cap": "И",
+      "low": "и",
+      "single": false,
+      "trad": "ᠢ",
+      "group": 0
+    },
+    {
+      "n": 4,
+      "cap": "О",
+      "low": "о",
+      "single": false,
+      "trad": "ᠣ",
+      "group": 0
+    },
+    {
+      "n": 5,
+      "cap": "У",
+      "low": "у",
+      "single": false,
+      "trad": "ᠤ",
+      "group": 0
+    },
+    {
+      "n": 6,
+      "cap": "Ө",
+      "low": "ө",
+      "single": false,
+      "trad": "ᠥ",
+      "group": 0
+    },
+    {
+      "n": 7,
+      "cap": "Ү",
+      "low": "ү",
+      "single": false,
+      "trad": "ᠦ",
+      "group": 0
+    },
+    {
+      "n": 8,
+      "cap": "Н",
+      "low": "н",
+      "single": false,
+      "trad": "ᠨ",
+      "group": 0
+    },
+    {
+      "n": 9,
+      "cap": "Б",
+      "low": "б",
+      "single": false,
+      "trad": "ᠪ",
+      "group": 0
+    },
+    {
+      "n": 10,
+      "cap": "П",
+      "low": "п",
+      "single": false,
+      "trad": "ᠫ",
+      "group": 0
+    },
+    {
+      "n": 11,
+      "cap": "Х",
+      "low": "х",
+      "single": false,
+      "trad": "ᠬ",
+      "group": 1
+    },
+    {
+      "n": 12,
+      "cap": "Г",
+      "low": "г",
+      "single": false,
+      "trad": "ᠭ",
+      "group": 1
+    },
+    {
+      "n": 13,
+      "cap": "М",
+      "low": "м",
+      "single": false,
+      "trad": "ᠮ",
+      "group": 1
+    },
+    {
+      "n": 14,
+      "cap": "Л",
+      "low": "л",
+      "single": false,
+      "trad": "ᠯ",
+      "group": 1
+    },
+    {
+      "n": 15,
+      "cap": "С",
+      "low": "с",
+      "single": false,
+      "trad": "ᠰ",
+      "group": 1
+    },
+    {
+      "n": 16,
+      "cap": "Ш",
+      "low": "ш",
+      "single": false,
+      "trad": "ᠱ",
+      "group": 1
+    },
+    {
+      "n": 17,
+      "cap": "Т",
+      "low": "т",
+      "single": false,
+      "trad": "ᠲ",
+      "group": 1
+    },
+    {
+      "n": 18,
+      "cap": "Д",
+      "low": "д",
+      "single": false,
+      "trad": "ᠳ",
+      "group": 1
+    },
+    {
+      "n": 19,
+      "cap": "Ц",
+      "low": "ц",
+      "single": false,
+      "trad": "ᠴ",
+      "group": 1
+    },
+    {
+      "n": 20,
+      "cap": "Ч",
+      "low": "ч",
+      "single": false,
+      "trad": "ᠴᠢ",
+      "group": 1
+    },
+    {
+      "n": 21,
+      "cap": "З",
+      "low": "з",
+      "single": false,
+      "trad": "ᠵ",
+      "group": 2
+    },
+    {
+      "n": 22,
+      "cap": "Ж",
+      "low": "ж",
+      "single": false,
+      "trad": "ᠵ",
+      "group": 2
+    },
+    {
+      "n": 23,
+      "cap": "Я",
+      "low": "я",
+      "single": false,
+      "trad": "ᠶᠠ",
+      "group": 2
+    },
+    {
+      "n": 24,
+      "cap": "Е",
+      "low": "е",
+      "single": false,
+      "trad": "ᠶᠡ",
+      "group": 2
+    },
+    {
+      "n": 25,
+      "cap": "Ё",
+      "low": "ё",
+      "single": false,
+      "trad": "ᠶᠣ",
+      "group": 2
+    },
+    {
+      "n": 26,
+      "cap": "Ю",
+      "low": "ю",
+      "single": false,
+      "trad": "ᠶᠦ",
+      "group": 2
+    },
+    {
+      "n": 27,
+      "cap": "Р",
+      "low": "р",
+      "single": false,
+      "trad": "ᠷ",
+      "group": 2
+    },
+    {
+      "n": 28,
+      "cap": "В",
+      "low": "в",
+      "single": false,
+      "trad": "ᠸ",
+      "group": 2
+    },
+    {
+      "n": 29,
+      "cap": "Ф",
+      "low": "ф",
+      "single": false,
+      "trad": "ᠹ",
+      "group": 2
+    },
+    {
+      "n": 30,
+      "cap": "К",
+      "low": "к",
+      "single": false,
+      "trad": "ᠺ",
+      "group": 2
+    },
+    {
+      "n": 31,
+      "cap": "Щ",
+      "low": "щ",
+      "single": false,
+      "trad": null,
+      "group": 3
+    },
+    {
+      "n": 32,
+      "cap": "Й",
+      "low": "й",
+      "single": true,
+      "trad": "ᠢ",
+      "group": 3
+    },
+    {
+      "n": 33,
+      "cap": "Ъ",
+      "low": "ъ",
+      "single": true,
+      "trad": null,
+      "group": 3
+    },
+    {
+      "n": 34,
+      "cap": "Ы",
+      "low": "ы",
+      "single": true,
+      "trad": null,
+      "group": 3
+    },
+    {
+      "n": 35,
+      "cap": "Ь",
+      "low": "ь",
+      "single": true,
+      "trad": null,
+      "group": 3
+    }
+  ],
+  "judge": {
+    "pass": 0.4,
+    "margin": 0.03,
+    "close": 0
+  },
+  "praise": [
+    "漂亮，一次过！",
+    "这字有内味儿了",
+    "稳稳拿下！",
+    "手感火热，继续",
+    "写得像模像样！",
+    "就是它，没跑了"
+  ],
+  "ordinalNotes": {
+    "4": "第 4 个 · 传统写法和第 5 个相同",
+    "5": "第 5 个 · 传统写法和第 4 个相同"
+  }
+}
