@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "letters": [
     {
       "n": 1,
@@ -7,7 +7,10 @@
       "low": "а",
       "single": false,
       "trad": "ᠠ",
-      "group": 0
+      "group": 0,
+      "latin": "a",
+      "ipa": "[a]",
+      "note": null
     },
     {
       "n": 2,
@@ -15,7 +18,10 @@
       "low": "э",
       "single": false,
       "trad": "ᠡ",
-      "group": 0
+      "group": 0,
+      "latin": "e",
+      "ipa": "[e]",
+      "note": null
     },
     {
       "n": 3,
@@ -23,7 +29,10 @@
       "low": "и",
       "single": false,
       "trad": "ᠢ",
-      "group": 0
+      "group": 0,
+      "latin": "i",
+      "ipa": "[i]",
+      "note": null
     },
     {
       "n": 4,
@@ -31,7 +40,10 @@
       "low": "о",
       "single": false,
       "trad": "ᠣ",
-      "group": 0
+      "group": 0,
+      "latin": "o",
+      "ipa": "[o]",
+      "note": null
     },
     {
       "n": 5,
@@ -39,7 +51,10 @@
       "low": "у",
       "single": false,
       "trad": "ᠤ",
-      "group": 0
+      "group": 0,
+      "latin": "u",
+      "ipa": "[ʊ]",
+      "note": null
     },
     {
       "n": 6,
@@ -47,7 +62,10 @@
       "low": "ө",
       "single": false,
       "trad": "ᠥ",
-      "group": 0
+      "group": 0,
+      "latin": "o",
+      "ipa": "[ø]",
+      "note": null
     },
     {
       "n": 7,
@@ -55,7 +73,10 @@
       "low": "ү",
       "single": false,
       "trad": "ᠦ",
-      "group": 0
+      "group": 0,
+      "latin": "u",
+      "ipa": "[u]",
+      "note": null
     },
     {
       "n": 8,
@@ -63,7 +84,10 @@
       "low": "н",
       "single": false,
       "trad": "ᠨ",
-      "group": 0
+      "group": 0,
+      "latin": "n",
+      "ipa": "[n]",
+      "note": null
     },
     {
       "n": 9,
@@ -71,7 +95,10 @@
       "low": "б",
       "single": false,
       "trad": "ᠪ",
-      "group": 0
+      "group": 0,
+      "latin": "b",
+      "ipa": "[b]",
+      "note": null
     },
     {
       "n": 10,
@@ -79,7 +106,10 @@
       "low": "п",
       "single": false,
       "trad": "ᠫ",
-      "group": 0
+      "group": 0,
+      "latin": "p",
+      "ipa": "[p]",
+      "note": null
     },
     {
       "n": 11,
@@ -87,7 +117,10 @@
       "low": "х",
       "single": false,
       "trad": "ᠬ",
-      "group": 1
+      "group": 1,
+      "latin": "kh",
+      "ipa": "[x]",
+      "note": null
     },
     {
       "n": 12,
@@ -95,7 +128,10 @@
       "low": "г",
       "single": false,
       "trad": "ᠭ",
-      "group": 1
+      "group": 1,
+      "latin": "g",
+      "ipa": "[ɡ]",
+      "note": null
     },
     {
       "n": 13,
@@ -103,7 +139,10 @@
       "low": "м",
       "single": false,
       "trad": "ᠮ",
-      "group": 1
+      "group": 1,
+      "latin": "m",
+      "ipa": "[m]",
+      "note": null
     },
     {
       "n": 14,
@@ -111,7 +150,10 @@
       "low": "л",
       "single": false,
       "trad": "ᠯ",
-      "group": 1
+      "group": 1,
+      "latin": "l",
+      "ipa": "[l]",
+      "note": null
     },
     {
       "n": 15,
@@ -119,7 +161,10 @@
       "low": "с",
       "single": false,
       "trad": "ᠰ",
-      "group": 1
+      "group": 1,
+      "latin": "s",
+      "ipa": "[s]",
+      "note": null
     },
     {
       "n": 16,
@@ -127,7 +172,10 @@
       "low": "ш",
       "single": false,
       "trad": "ᠱ",
-      "group": 1
+      "group": 1,
+      "latin": "sh",
+      "ipa": "[ʃ]",
+      "note": null
     },
     {
       "n": 17,
@@ -135,7 +183,10 @@
       "low": "т",
       "single": false,
       "trad": "ᠲ",
-      "group": 1
+      "group": 1,
+      "latin": "t",
+      "ipa": "[t]",
+      "note": null
     },
     {
       "n": 18,
@@ -143,7 +194,10 @@
       "low": "д",
       "single": false,
       "trad": "ᠳ",
-      "group": 1
+      "group": 1,
+      "latin": "d",
+      "ipa": "[d]",
+      "note": null
     },
     {
       "n": 19,
@@ -151,7 +205,10 @@
       "low": "ц",
       "single": false,
       "trad": "ᠴ",
-      "group": 1
+      "group": 1,
+      "latin": "ts",
+      "ipa": "[ts]",
+      "note": null
     },
     {
       "n": 20,
@@ -159,7 +216,10 @@
       "low": "ч",
       "single": false,
       "trad": "ᠴᠢ",
-      "group": 1
+      "group": 1,
+      "latin": "ch",
+      "ipa": "[tʃ]",
+      "note": null
     },
     {
       "n": 21,
@@ -167,7 +227,10 @@
       "low": "з",
       "single": false,
       "trad": "ᠵ",
-      "group": 2
+      "group": 2,
+      "latin": "z",
+      "ipa": "[z]",
+      "note": null
     },
     {
       "n": 22,
@@ -175,7 +238,10 @@
       "low": "ж",
       "single": false,
       "trad": "ᠵ",
-      "group": 2
+      "group": 2,
+      "latin": "j",
+      "ipa": "[ʒ]",
+      "note": null
     },
     {
       "n": 23,
@@ -183,7 +249,10 @@
       "low": "я",
       "single": false,
       "trad": "ᠶᠠ",
-      "group": 2
+      "group": 2,
+      "latin": "ya",
+      "ipa": "[ja]",
+      "note": null
     },
     {
       "n": 24,
@@ -191,7 +260,10 @@
       "low": "е",
       "single": false,
       "trad": "ᠶᠡ",
-      "group": 2
+      "group": 2,
+      "latin": "ye",
+      "ipa": "[je]",
+      "note": null
     },
     {
       "n": 25,
@@ -199,7 +271,10 @@
       "low": "ё",
       "single": false,
       "trad": "ᠶᠣ",
-      "group": 2
+      "group": 2,
+      "latin": "yo",
+      "ipa": "[jɔ]",
+      "note": null
     },
     {
       "n": 26,
@@ -207,7 +282,10 @@
       "low": "ю",
       "single": false,
       "trad": "ᠶᠦ",
-      "group": 2
+      "group": 2,
+      "latin": "yu",
+      "ipa": "[ju]",
+      "note": null
     },
     {
       "n": 27,
@@ -215,7 +293,10 @@
       "low": "р",
       "single": false,
       "trad": "ᠷ",
-      "group": 2
+      "group": 2,
+      "latin": "r",
+      "ipa": "[r]",
+      "note": null
     },
     {
       "n": 28,
@@ -223,7 +304,10 @@
       "low": "в",
       "single": false,
       "trad": "ᠸ",
-      "group": 2
+      "group": 2,
+      "latin": "v",
+      "ipa": "[w]",
+      "note": null
     },
     {
       "n": 29,
@@ -231,7 +315,10 @@
       "low": "ф",
       "single": false,
       "trad": "ᠹ",
-      "group": 2
+      "group": 2,
+      "latin": "f",
+      "ipa": "[f]",
+      "note": null
     },
     {
       "n": 30,
@@ -239,7 +326,10 @@
       "low": "к",
       "single": false,
       "trad": "ᠺ",
-      "group": 2
+      "group": 2,
+      "latin": "k",
+      "ipa": "[k]",
+      "note": null
     },
     {
       "n": 31,
@@ -247,7 +337,10 @@
       "low": "щ",
       "single": false,
       "trad": null,
-      "group": 3
+      "group": 3,
+      "latin": "shch",
+      "ipa": "[ɕtɕ]",
+      "note": "特殊组"
     },
     {
       "n": 32,
@@ -255,7 +348,10 @@
       "low": "й",
       "single": true,
       "trad": "ᠢ",
-      "group": 3
+      "group": 3,
+      "latin": "y",
+      "ipa": "[j]",
+      "note": "特殊组"
     },
     {
       "n": 33,
@@ -263,7 +359,10 @@
       "low": "ъ",
       "single": true,
       "trad": null,
-      "group": 3
+      "group": 3,
+      "latin": "硬音符号",
+      "ipa": null,
+      "note": "特殊组 · 不单独发音"
     },
     {
       "n": 34,
@@ -271,7 +370,10 @@
       "low": "ы",
       "single": true,
       "trad": null,
-      "group": 3
+      "group": 3,
+      "latin": "y",
+      "ipa": "[ɯ]",
+      "note": "特殊组"
     },
     {
       "n": 35,
@@ -279,7 +381,10 @@
       "low": "ь",
       "single": true,
       "trad": null,
-      "group": 3
+      "group": 3,
+      "latin": "软音符号",
+      "ipa": null,
+      "note": "特殊组 · 不单独发音"
     }
   ],
   "judge": {
@@ -298,5 +403,71 @@
   "ordinalNotes": {
     "4": "第 4 个 · 传统写法和第 5 个相同",
     "5": "第 5 个 · 传统写法和第 4 个相同"
-  }
+  },
+  "words": [
+    {
+      "cyr": "нар",
+      "trad": "ᠨᠠᠷᠠ"
+    },
+    {
+      "cyr": "сар",
+      "trad": "ᠰᠠᠷᠠ"
+    },
+    {
+      "cyr": "ус",
+      "trad": "ᠤᠰᠤ"
+    },
+    {
+      "cyr": "хоол",
+      "trad": "ᠬᠣᠣᠯᠠ"
+    },
+    {
+      "cyr": "гэр",
+      "trad": "ᠭᠡᠷ"
+    },
+    {
+      "cyr": "мал",
+      "trad": "ᠮᠠᠯ"
+    },
+    {
+      "cyr": "тал",
+      "trad": "ᠲᠠᠯᠠ"
+    },
+    {
+      "cyr": "цас",
+      "trad": "ᠴᠠᠰᠤ"
+    },
+    {
+      "cyr": "шөнө",
+      "trad": "ᠰᠥᠨᠢ"
+    },
+    {
+      "cyr": "долоо",
+      "trad": "ᠳᠣᠯᠣᠭᠠ"
+    },
+    {
+      "cyr": "ном",
+      "trad": "ᠨᠣᠮ"
+    },
+    {
+      "cyr": "морь",
+      "trad": "ᠮᠣᠷᠢ"
+    },
+    {
+      "cyr": "сүү",
+      "trad": "ᠰᠦᠦ"
+    },
+    {
+      "cyr": "цай",
+      "trad": "ᠴᠠᠶ"
+    },
+    {
+      "cyr": "аав",
+      "trad": "ᠠᠪᠤ"
+    },
+    {
+      "cyr": "ээж",
+      "trad": "ᠡᠵᠢ"
+    }
+  ]
 }
